@@ -1,0 +1,12 @@
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb

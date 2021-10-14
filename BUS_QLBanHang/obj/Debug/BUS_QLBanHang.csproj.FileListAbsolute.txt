@@ -1,0 +1,33 @@
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.AssemblyReference.cache
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\asm\asmduanmau\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.AssemblyReference.cache
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\SOF205_Slides (1)\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.AssemblyReference.cache
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+E:\DuAnMau\Assignment\QLBanHang-main\QLBanHang-main\QLBanHang-main\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
